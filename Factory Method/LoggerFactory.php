@@ -8,6 +8,7 @@
  */
 interface LoggerFactory
 {
+
     /**
      * Method for creating logger that is implemented in
      * FileLoggerFactory and StdoutLoggerFactory.
@@ -15,4 +16,5 @@ interface LoggerFactory
      * @return Logger
      */
     public function createLogger():Logger;
+
 }

@@ -8,6 +8,7 @@
  */
 interface OsInterface
 {
+
     /**
      * Interface method for stopping os.
      *
@@ -21,4 +22,5 @@ interface OsInterface
      * @return mixed
      */
     public function getName();
+
 }

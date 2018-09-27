@@ -35,7 +35,7 @@ class Book implements BookInterface
      */
     public function getPage(): int
     {
-        // TODO: Implement getPage() method.
+        return $this->page;
     }
 
 }

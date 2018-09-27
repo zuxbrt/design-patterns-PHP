@@ -11,6 +11,7 @@ use PHPUnit\Framework\TestCase;
 
 class FactoryMethodTest extends TestCase
 {
+    
     /**
      * This function tests if StdoutLoggerFactory creates a logger that is StdoutLogger class.
      */

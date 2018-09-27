@@ -8,9 +8,12 @@
  */
 class StdoutLogger implements Logger
 {
+
     /**
      * Echoes string as message.
-     *
+     * - - - - - - - - - - - - - - - - - - - - -
+     * - notice - return value set for PHPDoc. -
+     * - - - - - - - - - - - - - - - - - - - - -
      * @param string $message
      * @return string
      */
@@ -19,5 +22,6 @@ class StdoutLogger implements Logger
         echo $message;
         return $message;
     }
+
 
 }

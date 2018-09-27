@@ -32,7 +32,6 @@ class Kindle implements EBookInterface
      */
     public function unlock()
     {
-        // TODO: Implement unlock() method.
     }
 
     /**

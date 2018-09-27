@@ -11,6 +11,7 @@ use PHPUnit\Framework\TestCase;
 
 class DataMapperTest extends TestCase
 {
+
     /**
      * This function is used for testing of userMapper with data from storage.
      */
@@ -46,4 +47,5 @@ class DataMapperTest extends TestCase
         // calls function for finding user by id
         $mapper->findById(1);
     }
+
 }

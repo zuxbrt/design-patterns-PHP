@@ -8,6 +8,7 @@
  */
 interface Logger
 {
+
     /**
      * Interface method for displaying log
      *
@@ -15,4 +16,5 @@ interface Logger
      * @return mixed
      */
     public function log(string $message);
+
 }

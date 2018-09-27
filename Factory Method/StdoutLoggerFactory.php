@@ -18,4 +18,5 @@ class StdoutLoggerFactory implements LoggerFactory
     {
         return new StdoutLogger();
     }
+
 }

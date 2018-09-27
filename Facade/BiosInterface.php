@@ -8,6 +8,7 @@
  */
 interface BiosInterface
 {
+
     /**
      * Interface method.
      *
@@ -36,4 +37,5 @@ interface BiosInterface
      * @return mixed
      */
     public function powerDown();
+
 }

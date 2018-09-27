@@ -17,11 +17,13 @@ class AdapterTest extends TestCase
      */
     public function testCanTurnPageOnBook()
     {
+        // creates new book class with methods from BookInterface
         $book = new Book();
         $book->open();
         $book->turnPage();
 
-        $this->assertEquals(2, $book->getPage());
+        // checks if getPage returns the correct value
+        $this->assertEquals(1, $book->getPage());
     }
 
 
@@ -31,13 +33,19 @@ class AdapterTest extends TestCase
      */
     public function testCanTurnEBookPage()
     {
+        // creates a new kindle for eBook
         $kindle = new Kindle();
+
+        // Since bookInterface functions are not valid for kindle,
+        // $book @var is created using a new Adapter for Kindle, called EBookAdapter.
+        // EBookAdapter implements EBookInterface, which methods are intended for EBook ($kindle)
         $book = new EBookAdapter($kindle);
 
         $book->open();
         $book->turnPage();
 
-        $this->assertEquals(2, $book->getPage());
+        // checks if getPage returns the correct value
+        $this->assertEquals(1, $book->getPage());
 
     }
 }
