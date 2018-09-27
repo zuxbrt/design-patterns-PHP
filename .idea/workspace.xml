@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87cc4b64-a362-467f-8d0a-63de813266f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory Method/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Adapter-Wrapper/README.md" afterPath="$PROJECT_DIR$/Adapter-Wrapper/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bridge/README.md" afterPath="$PROJECT_DIR$/Bridge/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data Mapper/README.md" afterPath="$PROJECT_DIR$/Data Mapper/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facade/README.md" afterPath="$PROJECT_DIR$/Facade/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Factory Method/FileLogger.php" afterPath="$PROJECT_DIR$/Factory Method/FileLogger.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Factory Method/FileLoggerFactory.php" afterPath="$PROJECT_DIR$/Factory Method/FileLoggerFactory.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Factory Method/Logger.php" afterPath="$PROJECT_DIR$/Factory Method/Logger.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Factory Method/LoggerFactory.php" afterPath="$PROJECT_DIR$/Factory Method/LoggerFactory.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Factory Method/StdoutLogger.php" afterPath="$PROJECT_DIR$/Factory Method/StdoutLogger.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Factory Method/StdoutLoggerFactory.php" afterPath="$PROJECT_DIR$/Factory Method/StdoutLoggerFactory.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -121,8 +110,8 @@
         <entry file="file://$PROJECT_DIR$/Adapter-Wrapper/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -412,12 +401,12 @@
       <updated>1538040196221</updated>
       <workItem from="1538040203829" duration="30000" />
       <workItem from="1538040261567" duration="1891000" />
-      <workItem from="1538043077674" duration="11943000" />
+      <workItem from="1538043077674" duration="12013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13864000" />
+    <option name="totallyTimeSpent" value="13934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -785,8 +774,8 @@
     <entry file="file://$PROJECT_DIR$/Adapter-Wrapper/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor />
