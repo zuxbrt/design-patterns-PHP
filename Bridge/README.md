@@ -1,4 +1,4 @@
-`BRIDGE pattern`
+`Bridge pattern`
 =====================
 
 Brief explanation

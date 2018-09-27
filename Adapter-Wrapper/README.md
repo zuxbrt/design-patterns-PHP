@@ -1,4 +1,4 @@
-`ADAPTER / WRAPPER pattern`
+`Adapter / Wrapper pattern`
 =====================
 
 Brief explanation
