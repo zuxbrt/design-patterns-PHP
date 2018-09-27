@@ -6,11 +6,11 @@ They are blueprints that can be taken and customized to solve a particular desig
 
 __Examples__:
 -------------
-####_Creational_
+_Creational_
   - [Adapter-Wrapper Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Adapter-Wrapper)
   - [Factory Method](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Factory%20Method)
   
-####_Structural_
+_Structural_
   - [Bridge Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Bridge)
   - [Data Mapper Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Data%20Mapper)
   - [Facade Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Facade)
