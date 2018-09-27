@@ -1,11 +1,16 @@
-# Design Patterns in PHP
+Design Patterns in PHP
+========================
 
 Design Patterns are typical solutions to commonly occurring problems in software design. 
 They are blueprints that can be taken and customized to solve a particular design problem in your code.
 
 __Examples__:
-- [Adapter-Wrapper Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Adapter-Wrapper)
-- [Bridge Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Bridge)
-- [Data Mapper Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Data%20Mapper)
-- [Facade Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Facade)
-- [Factory Method](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Factory%20Method)
+-------------
+####*Creational*
+  - [Adapter-Wrapper Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Adapter-Wrapper)
+  - [Factory Method](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Factory%20Method)
+  
+####*Structural*
+  - [Bridge Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Bridge)
+  - [Data Mapper Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Data%20Mapper)
+  - [Facade Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Facade)
