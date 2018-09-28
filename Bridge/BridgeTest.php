@@ -17,11 +17,14 @@ class BridgeTest extends TestCase
      */
     public function testCanPrintUsingPlainTextPrinter()
     {
+        // set the string value
+        $string = 'Hello World';
+
         // defining new service with plain text formatter
         $service = new HelloWorldService(new PlainTextFormatter());
 
         // verify that expected result is equal to the formatted text
-        $this->assertEquals('Hello World', $service->get());
+        $this->assertEquals('Hello World', $service->get($string));
 
         // now changing the implementation and using the HtmlFormatter
 
@@ -29,7 +32,7 @@ class BridgeTest extends TestCase
         $service->setImplementation(new HtmlFormatter());
 
         // verify that expected result is equal to the formatted text
-        $this->assertEquals('<p>Hello World</p>', $service->get());
+        $this->assertEquals('<p>Hello World</p>', $service->get($string));
 
     }
 }

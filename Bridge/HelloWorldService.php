@@ -13,10 +13,11 @@ class HelloWorldService extends Service
      * This function uses abstract function from abstract service class
      * and implements method for text that will be formatted.
      *
+     * @var string
      * @return mixed
      */
-    public function get()
+    public function get(string $string)
     {
-        return $this->implementation->format('Hello World');
+        return $this->implementation->format($string);
     }
 }

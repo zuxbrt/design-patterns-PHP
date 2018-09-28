@@ -35,8 +35,9 @@ abstract class Service
     /**
      * Defining abstract function that will be implemented in helloWorldService
      *
+     * @var string
      * @return mixed
      */
-    abstract public function get();
+    abstract public function get(string $string);
 
 }
