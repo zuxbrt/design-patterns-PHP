@@ -14,3 +14,4 @@ _Structural_
   - [Bridge Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Bridge)
   - [Data Mapper Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Data%20Mapper)
   - [Facade Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Facade)
+  - [Fluent Interface Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Fluent%20Interface)

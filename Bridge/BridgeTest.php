@@ -28,7 +28,7 @@ class BridgeTest extends TestCase
 
         // now changing the implementation and using the HtmlFormatter
 
-        // defining new service with html formatter
+        // defining service html formatter
         $service->setImplementation(new HtmlFormatter());
 
         // verify that expected result is equal to the formatted text
