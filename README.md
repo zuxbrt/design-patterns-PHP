@@ -9,6 +9,7 @@ __Examples__:
 _Creational_
   - [Adapter-Wrapper Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Adapter-Wrapper)
   - [Factory Method](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Factory%20Method)
+  - [Prototype Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Prototype)
   
 _Structural_
   - [Bridge Pattern](https://github.com/zuxbrt/design-patterns-PHP/tree/master/Bridge)
