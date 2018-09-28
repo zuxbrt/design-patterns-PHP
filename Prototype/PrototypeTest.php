@@ -13,14 +13,14 @@ class PrototypeTest extends TestCase
 {
     /**
      * This function is used for testing for loops.
-     * First for loop should return for each iteration
-     * same class ( FooBookPrototype ), that is later
-     * validated with assertInstanceOf method at the
+     * First for loop should create same class
+     * ( FooBookPrototype ) for each iteration, that is
+     * later validated with assertInstanceOf method at the
      * end of the loop.
      *
-     * Second for loop should return for each iteration
-     * same class ( BarBookPrototype ), that is later
-     * validated with assertInstanceOf method at the
+     * First for loop should create same class
+     * ( BarBookPrototype ) for each iteration, that is
+     * later validated with assertInstanceOf method at the
      * end of the loop.
      */
     public function testCanGetFooBook()
